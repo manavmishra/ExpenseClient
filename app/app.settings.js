@@ -1,5 +1,5 @@
 var app = angular.module('hpsa-client');
 
 app.constant('AppSettings', {
-   apiUrl: 'https://expense-api.52.38.36.91.xip.io/',
+   apiUrl: 'http://expense-api.52.38.36.91.xip.io',
 })
