@@ -1,5 +1,5 @@
 applications:
-- name: expense-client
+- name: manav-expense-client
   mem: 128M
   services:
   stackato:
